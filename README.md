@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-AI-Customer-Service-Assistant/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Customer-Service-Assistant?style=flat-square&logo=github" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Customer-Service-Assistant/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Customer-Service-Assistant?style=flat-square&logo=github" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Customer-Service-Assistant/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Customer-Service-Assistant?style=flat-square&logo=github" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Customer-Service-Assistant/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -62,9 +62,9 @@ The table below summarizes commercial AI customer service solutions, ordered by 
 
 ## 🔓 Open-Source GitHub Projects
 
-Below is a list of top open-source repositories for building self-hosted, custom AI customer service tools, sorted by **GitHub Star Count (Descending)**.
+Below is a list of top open-source repositories for building self-hosted, custom AI customer service tools, sorted by **GitHub Stars_Count (Descending)**.
 
-| Project Name | Stars | License | Core Capabilities & Best Use Case |
+| Project Name | GitHub_Stars | License | Core Capabilities & Best Use Case |
 | :--- | :--- | :--- | :--- |
 | **[Chatwoot](https://github.com/chatwoot/chatwoot)** 💬 | [<img src="https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white" alt="Chatwoot Stars"/>](https://github.com/chatwoot/chatwoot/stargazers) | `MIT` | **Omnichannel customer support desk alternative to Intercom & Zendesk.** Connects website chat, WhatsApp, Twitter, and email with AI bot integrations. |
 | **[Rasa](https://github.com/RasaHQ/rasa)** 🧠 | [<img src="https://img.shields.io/github/stars/RasaHQ/rasa?style=social&color=white" alt="Rasa Stars"/>](https://github.com/RasaHQ/rasa/stargazers) | `Apache-2.0` | **Mature open-source conversational AI framework.** Features NLU pipelines, CALM dialogue management, intent classification, and custom Python actions. |
@@ -81,7 +81,7 @@ Contributions are welcome! Please follow these simple guidelines:
 
 1. 🍴 Fork the repository.
 2. 📝 Add or update entries in `README.md` following the tabular format.
-3. 📌 Ensure pricing, free trial limits, valuation, or star counts are factual and cited.
+3. 📌 Ensure pricing, free trial limits, valuation, or Stars_Counts are factual and cited.
 4. 🚀 Submit a Pull Request with a clear description of changes.
 
 ---
