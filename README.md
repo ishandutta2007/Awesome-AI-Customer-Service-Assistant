@@ -62,7 +62,7 @@ The table below summarizes commercial AI customer service solutions, ordered by 
 
 ## 🔓 Open-Source GitHub Projects
 
-Below is a list of top open-source repositories for building self-hosted, custom AI customer service tools, sorted by **GitHub Stars_Count (Descending)**.
+Below is a list of top open-source repositories for building self-hosted, custom AI customer service tools, sorted by **GitHub_Stars_Count (Descending)**.
 
 | Project Name | GitHub_Stars | License | Core Capabilities & Best Use Case |
 | :--- | :--- | :--- | :--- |
